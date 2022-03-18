@@ -1,4 +1,4 @@
-## {JSON} Placeholder
+# {JSON} Placeholder
 
 JSONPlaceholder is a simple fake REST API for testing and prototyping.
 
