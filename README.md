@@ -15,4 +15,4 @@ JSONPlaceholder - это простой поддельный REST API для т�
 
 JSONPlaceholder поставляется с набором из 6 общих ресурсов:
 
-* [/posts]"https://jsonplaceholder.typicode.com/posts) — 100 posts 
+* [/posts](https://jsonplaceholder.typicode.com/posts) — 100 posts 
