@@ -17,4 +17,4 @@ JSONPlaceholder поставляется с набором из 6 общих р�
 
 | Tables        | Are           |
 | :------------ | :-------------|
-| [/posts]("https://jsonplaceholder.typicode.com/posts")| 100 posts |
+| [posts]("https://jsonplaceholder.typicode.com/posts")| 100 posts |
