@@ -19,3 +19,9 @@ JSONPlaceholder поставляется с набором из 6 общих р�
 * [/photos](https://jsonplaceholder.typicode.com/photos) — 5000 posts
 * [/todos](https://jsonplaceholder.typicode.com/todos) — 200 posts
 * [/users](https://jsonplaceholder.typicode.com/users) — 10 posts
+
+** Маршруты
+
+Поддерживаются все методы HTTP. Вы можете использовать http или https для своих запросов.
+
+* GET — [/posts](https://jsonplaceholder.typicode.com/posts)
