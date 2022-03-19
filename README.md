@@ -25,3 +25,10 @@ JSONPlaceholder поставляется с набором из 6 общих р�
 Поддерживаются все методы HTTP. Вы можете использовать http или https для своих запросов.
 
 * GET — [/posts](https://jsonplaceholder.typicode.com/posts)
+* GET — [/posts/1](https://jsonplaceholder.typicode.com/posts/1)
+* GET — [/posts/1/comments](https://jsonplaceholder.typicode.com/posts/1/comments)
+* GET — [/comments?postId=1](https://jsonplaceholder.typicode.com/comments?postId=1)
+* POST — /posts
+* PUT — /posts/1
+* PATCH — /posts/1
+* DELETE — /posts/1
